@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+mysql.connector
+
+in js you'll need : expressjs axios mysql 
